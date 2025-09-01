@@ -27,7 +27,7 @@
 
 ## 📱 Demo
 
-[![Watch Demo](https://i.postimg.cc/FsWSRf6v/expense-tracker.jpg)](https://drive.google.com/file/d/1lJYjnOonksMZeQcOcD36ToQK3bBXX_zu/view?usp=sharing)
+[![Watch Demo]](https://drive.google.com/file/d/1lJYjnOonksMZeQcOcD36ToQK3bBXX_zu/view?usp=sharing)
 
 > Watch the full demo to see all features in action.  
 
